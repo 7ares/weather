@@ -1,0 +1,25 @@
+/*general Style */
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  text-transform: capitalize;
+  margin: 0;
+  padding: 0;
+  transition: all 0.2s linear;
+  scroll-behavior: smooth;
+}
+body{
+  font-size: 64%;
+  background-color: #0066b4;
+}
+.weather-container{
+  box-shadow: .3rem .3rem #0066b466;
+  background-image: url(img1.jpg);
+  background-size: cover;
+}
+.forcastDay{
+  border-radius: 10px;
+  background-color: #ffffff66;
+  margin: .5rem;
+  
+}
